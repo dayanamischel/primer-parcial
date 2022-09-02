@@ -1,0 +1,10 @@
+div{
+    border: 2px solid red;
+    border-radius: 20px;
+
+}
+main{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
